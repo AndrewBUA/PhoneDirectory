@@ -1,0 +1,5 @@
+#Ignore the db
+GatewayMGTDB.db
+
+#Ignore the Property List CSV
+Property_List_CSV.csv
