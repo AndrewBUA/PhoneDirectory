@@ -38,17 +38,20 @@ Detailed Property View (Modal):
 ## Getting Started
 
 Follow these instructions to get a copy of the project up and running on your local machine.
-Prerequisites
+
+### Prerequisites
 
 Make sure you have the following installed:
 
     Python 3.x
     Flask
+    sqlite3
 
-You can install Flask using pip:
+You can install Flask/sqlite3 using pip:
 
     <>Bash
     pip install Flask
+    pip install sqlite3
 
   
 
